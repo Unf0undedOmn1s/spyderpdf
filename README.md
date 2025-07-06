@@ -2,6 +2,8 @@
 
 **SpyderPDF** is a Python-based tool designed to scan and analyze PDF files for potential security threats. It detects suspicious keywords commonly used in malicious PDFs, extracts metadata for forensic investigation, and provides a terminal-friendly interface for easy use.
 
+(src/spyderpdf-dashboard.png)
+
 ## What it Does
 
 - Detects **suspicious keywords** (e.g. `/JavaScript`, `/Launch`, `/OpenAction`)
