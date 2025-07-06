@@ -53,16 +53,6 @@ python3 analyzer.py
 - Extracting metadata
 - Exiting the tool
 
-### 🔐 Suspicious Indicators Detected
-- SpyderPDF scans for known risky PDF elements:
-| Keyword       | Purpose                            |
-| ------------- | ---------------------------------- |
-| `/JavaScript` | Embedded script execution          |
-| `/Launch`     | Run system commands or files       |
-| `/OpenAction` | Trigger on file open               |
-| `/AA`         | Automatic actions (e.g. page open) |
-| `/URI`        | Redirects or external URLs         |
-
 ### Educational Guide
 # A supporting PDF guide has been written to help the public understand:
 - Common PDF-based attack techniques
