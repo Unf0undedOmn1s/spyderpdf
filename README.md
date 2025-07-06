@@ -44,3 +44,7 @@ python3 analyzer.py
 - Common PDF-based attack techniques
 - SpyderPDF’s role in detection
 - Security tips for handling suspicious documents
+
+# Let me know if you want:
+- A version with GitHub badges (like stars, forks, license)
+- A Greek translation
