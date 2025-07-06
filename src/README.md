@@ -22,20 +22,6 @@ PDFs are commonly used in phishing campaigns and malware distribution. SpyderPDF
 - Beginner-friendly modular code
 - Planned features: embedded file detection, YARA support, entropy analysis
 
----
-
-## Project Structure
-
-SpyderPDF/
-├── analyzer.py # Main CLI entrypoint
-├── modules/
-│ ├── banner.py # ASCII banner display
-│ └── menu.py # Menu logic
-├── utils/
-│ ├── keyword_scanner.py # Keyword-based threat detection
-│ └── metadata_extractor.py # Metadata parsing
-└── README.md
-
 ### Prerequisites
 
 - Python 3.7+
